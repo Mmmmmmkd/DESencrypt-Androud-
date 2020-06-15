@@ -1,0 +1,12 @@
+<resources>
+
+<!--    * 2020-06-06-->
+<!--    * 邮箱1132269071@qq.com-->
+<!--    */-->
+    <string name="app_name">DES文本加密1.1</string>
+    <string name="encrypt_text">请输入待加密/解密文本</string>
+    <string name="key_text">请输入8位密钥</string>
+    <string name="encryptBtn">加密</string>
+    <string name="decryptBtn">解密</string>
+    <string name="keyWordsAggregate">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&amp;*()_+-={}[]|\:";'&lt;&gt;>,.?/~`</string>
+</resources>
